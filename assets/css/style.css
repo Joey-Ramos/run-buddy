@@ -289,6 +289,19 @@ section {
     color: #fce138;
 }
 /* Reach Out Styles End */
+
+/* Service Grid Styles Start */
+.service-grid-container {
+    display: grid;
+}
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+/* Service Grid Styles End */
 .text-left {
     text-align: left;
 }
